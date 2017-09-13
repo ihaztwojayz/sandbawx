@@ -10,3 +10,7 @@ h3 {
   font-size: 50px;
   font-family: Cursive;
 }
+p {
+  font-weight: bold;
+  font-family: fantasy;
+}
